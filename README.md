@@ -1,8 +1,5 @@
 
-# TechXchange-SEE: IBM Cloud Pak for Integration installation
-
-
->[Box folder](https://ibm.box.com/s/597dicj8ece4twnah9c2o9jl1n509xtg) with additional information (available only to the workshop attendees)<br>
+# TechXchange: IBM Cloud Pak for Integration installation
 
 
 
